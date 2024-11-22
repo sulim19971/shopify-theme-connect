@@ -1,0 +1,12 @@
+/.env
+/.env.loc
+/theme/assets/es.css
+/theme/assets/es.js
+/node_modules/
+/theme/assets/app-*.css
+/theme/assets/app-*.js
+/theme/assets/manifest.json
+/theme/snippets/vite-client.liquid
+/theme/snippets/vite-tag.liquid
+.idea
+/theme/assets/icon*
